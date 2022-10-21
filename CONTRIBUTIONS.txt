@@ -1,0 +1,20 @@
+Hanyu Zheng (partner 1)
+1.wrote verliog for state machine
+2.wrote testbench for state machine
+3.simulate on the De1soc
+4.wrote most verilog for cpu
+5.debug the state machine
+6.wrote testbench for datapath
+7.wrote testbench for instructionDecoder
+
+
+Patrick Chen (partner 2)
+1.change the loads
+2.change the alu
+3.wrote verilog for V and N
+4.change datapath verilog
+5.wrote verilog for lab_top
+6.wrote part verilog for cpu
+7.wrote verilog for cpu_tb
+8.wrote verilog for instructionRegister
+9.wrote verilog for instructionDecoder

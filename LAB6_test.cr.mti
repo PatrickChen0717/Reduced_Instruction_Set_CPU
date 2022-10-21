@@ -1,0 +1,95 @@
+D:/FPGA1.1/LAB6CPU_test/datapath.v {1 {vlog -work work -stats=none D:/FPGA1.1/LAB6CPU_test/datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module datapath
+-- Compiling module load1
+-- Compiling module load2
+-- Compiling module mux
+-- Compiling module muxstart
+
+Top level modules:
+	datapath
+
+} {} {}} D:/FPGA1.1/LAB6CPU_test/lab6_top.v {1 {vlog -work work -stats=none D:/FPGA1.1/LAB6CPU_test/lab6_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab6_top
+-- Compiling module input_iface
+-- Compiling module vDFF
+-- Compiling module sseg
+
+Top level modules:
+	lab6_top
+
+} {} {}} D:/FPGA1.1/LAB6CPU_test/InstructionReg.v {1 {vlog -work work -stats=none D:/FPGA1.1/LAB6CPU_test/InstructionReg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module InstructionRegister
+
+Top level modules:
+	InstructionRegister
+
+} {} {}} D:/FPGA1.1/LAB6CPU_test/InstrctionDEC.v {1 {vlog -work work -stats=none D:/FPGA1.1/LAB6CPU_test/InstrctionDEC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module InstructionDecoder
+
+Top level modules:
+	InstructionDecoder
+
+} {} {}} D:/FPGA1.1/LAB6CPU_test/CFSM.v {1 {vlog -work work -stats=none D:/FPGA1.1/LAB6CPU_test/CFSM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CFSM
+-- Compiling module vDFF12
+
+Top level modules:
+	CFSM
+
+} {} {}} D:/FPGA1.1/LAB6CPU_test/ALU.v {1 {vlog -work work -stats=none D:/FPGA1.1/LAB6CPU_test/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/FPGA1.1/LAB6CPU_test/cpu_tb.v {1 {vlog -work work -stats=none D:/FPGA1.1/LAB6CPU_test/cpu_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cpu_tb
+
+Top level modules:
+	cpu_tb
+
+} {} {}} D:/FPGA1.1/LAB6CPU_test/regfile.v {1 {vlog -work work -stats=none D:/FPGA1.1/LAB6CPU_test/regfile.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module regfile
+-- Compiling module vDFF1
+-- Compiling module DEC
+
+Top level modules:
+	regfile
+
+} {} {}} D:/FPGA1.1/LAB6CPU_test/CFSM_tb.v {1 {vlog -work work -stats=none D:/FPGA1.1/LAB6CPU_test/CFSM_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CFSM_tb
+
+Top level modules:
+	CFSM_tb
+
+} {} {}} D:/FPGA1.1/LAB6CPU_test/cpu.v {1 {vlog -work work -stats=none D:/FPGA1.1/LAB6CPU_test/cpu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} {D:/FPGA1.1/LAB6CPU_test/lab6_autograder_check (2).v} {1 {vlog -work work -stats=none {D:/FPGA1.1/LAB6CPU_test/lab6_autograder_check (2).v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab6_check
+
+Top level modules:
+	lab6_check
+
+} {} {}} D:/FPGA1.1/LAB6CPU_test/shifter.v {1 {vlog -work work -stats=none D:/FPGA1.1/LAB6CPU_test/shifter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}}
